@@ -1,4 +1,4 @@
-LATTE ☕ — LLM-Assisted Topic/Thematic Analysis
+# LATTE ☕ — LLM-Assisted Topic/Thematic Analysis
 
 The goal of this project is to assist with analysing the common themes or topics within large quantities of short texts while preserving researcher flexibility and control.
 
@@ -52,4 +52,4 @@ For demonstration, we will use a sample of reddit post from two subreadits: AskM
 
 ### Demo
 
-Checkout demo.ipynb to see how LATTE ☕ in practice
+Check out demo.ipynb to see how LATTE ☕ in practice
