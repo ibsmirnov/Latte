@@ -1,5 +1,4 @@
-# LATTE ☕
-## LLM-Assisted Topic/Thematic Analysis
+# LATTE ☕ — LLM-Assisted Topic/Thematic Analysis
 
 The goal of this project is to assist with analysing the common themes or topics within large quantities of short texts while preserving researcher flexibility and control.
 
