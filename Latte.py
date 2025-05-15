@@ -229,7 +229,11 @@ class Latte:
         clusterer.fit(data_array)
 
         self.clusterer = clusterer
-        
+
+        print("Clustering complete.")
+        n_clusters = len(set(self.clusterer.labels_)) - (1 if -1 in self.clusterer.labels_ else 0)
+        print(f"Identified leaf {n_clusters} clusters.")
+
         self._compute_tree()
 
         self._compute_fractions()

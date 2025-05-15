@@ -49,3 +49,7 @@ For demonstration, we will use a sample of reddit post from two subreadits: AskM
    python sample_creation.py
    ```
    This will generate a CSV file with samples from AskMen and AskWomen subreddits.
+
+### Demo
+
+Checkout demo.ipynb to see how LATTE ☕ in practice
